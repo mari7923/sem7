@@ -1,0 +1,15 @@
+C:\Users\danil\OneDrive\Рабочий стол\SEM_7DZ\obj\Debug\net6.0\SEM_7DZ.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Рабочий стол\SEM_7DZ\obj\Debug\net6.0\SEM_7DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Рабочий стол\SEM_7DZ\obj\Debug\net6.0\SEM_7DZ.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Рабочий стол\SEM_7DZ\obj\Debug\net6.0\SEM_7DZ.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Рабочий стол\SEM_7DZ\obj\Debug\net6.0\SEM_7DZ.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Рабочий стол\SEM_7DZ\bin\Debug\net6.0\SEM_7DZ.exe
+C:\Users\danil\OneDrive\Рабочий стол\SEM_7DZ\bin\Debug\net6.0\SEM_7DZ.deps.json
+C:\Users\danil\OneDrive\Рабочий стол\SEM_7DZ\bin\Debug\net6.0\SEM_7DZ.runtimeconfig.json
+C:\Users\danil\OneDrive\Рабочий стол\SEM_7DZ\bin\Debug\net6.0\SEM_7DZ.dll
+C:\Users\danil\OneDrive\Рабочий стол\SEM_7DZ\bin\Debug\net6.0\SEM_7DZ.pdb
+C:\Users\danil\OneDrive\Рабочий стол\SEM_7DZ\obj\Debug\net6.0\SEM_7DZ.dll
+C:\Users\danil\OneDrive\Рабочий стол\SEM_7DZ\obj\Debug\net6.0\refint\SEM_7DZ.dll
+C:\Users\danil\OneDrive\Рабочий стол\SEM_7DZ\obj\Debug\net6.0\SEM_7DZ.pdb
+C:\Users\danil\OneDrive\Рабочий стол\SEM_7DZ\obj\Debug\net6.0\SEM_7DZ.genruntimeconfig.cache
+C:\Users\danil\OneDrive\Рабочий стол\SEM_7DZ\obj\Debug\net6.0\ref\SEM_7DZ.dll
